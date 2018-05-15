@@ -1,0 +1,622 @@
+{
+    "ticket": [
+        {
+            "title": "Deadpool 2",
+            "love": {
+                "percentage": "77%",
+                "votes": "9 votes"
+            },
+            "rating": [
+                {
+                    "five star": "7"
+                },
+                {
+                    "four star": "2"
+                },
+                {
+                    "three star": "0"
+                },
+                {
+                    "two star": "0"
+                },
+                {
+                    "one star": "0"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2010",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2110",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2200",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2240",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "Cinemaxx: Istana Plaza Bandung",
+                    "available-tickets": [
+                        {
+                            "time": "2130",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2230",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: Metro Indah Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2000",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2110",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2125",
+                            "price": 50000,
+                            "venue": "Satin Suite"
+                        },
+                        {
+                            "time": "2140",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2220",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: 23 Paskal Shopping Center",
+                    "available-tickets": [
+                        {
+                            "time": "2000",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2030",
+                            "price": 45000,
+                            "venue": "STARIUM"
+                        },
+                        {
+                            "time": "2100",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2130",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2200",
+                            "price": 80000,
+                            "venue": "GOLD"
+                        },
+                        {
+                            "time": "2215",
+                            "price": 75000,
+                            "venue": "VELVET"
+                        },
+                        {
+                            "time": "2230",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2300",
+                            "price": 45000,
+                            "venue": "STARIUM"
+                        },
+                        {
+                            "time": "2330",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: Paris van Java",
+                    "available-tickets": [
+                        {
+                            "time": "2000",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2015",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2035",
+                            "price": 75000,
+                            "venue": "VELVET"
+                        },
+                        {
+                            "time": "2045",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2115",
+                            "price": 75000,
+                            "venue": "VELVET"
+                        },
+                        {
+                            "time": "2130",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2200",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2225",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2240",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2305",
+                            "price": 75000,
+                            "venue": "VELVET"
+                        },
+                        {
+                            "time": "2315",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: BEC Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2010",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2030",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2100",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2130",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2200",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2240",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2300",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2335",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Avengers: Infinity War",
+            "love": {
+                "percentage": "81%",
+                "votes": "4,034 votes"
+            },
+            "rating": [
+                {
+                    "five star": "3468"
+                },
+                {
+                    "four star": "434"
+                },
+                {
+                    "three star": "79"
+                },
+                {
+                    "two star": "18"
+                },
+                {
+                    "one star": "35"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2210",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2230",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "Cinemaxx: Istana Plaza Bandung",
+                    "available-tickets": [
+                        {
+                            "time": "2145",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: Metro Indah Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2215",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: 23 Paskal Shopping Center",
+                    "available-tickets": [
+                        {
+                            "time": "2030",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: Paris van Java",
+                    "available-tickets": [
+                        {
+                            "time": "2045",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: BEC Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2130",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Anon",
+            "love": {
+                "percentage": "84%",
+                "votes": "19 votes"
+            },
+            "rating": "Not Yet Rated",
+            "available-theatre": [
+                {
+                    "theatre": "Cinemaxx: Istana Plaza Bandung",
+                    "available-tickets": [
+                        {
+                            "time": "1415",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "1615",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "1815",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Ghost Stories",
+            "love": {
+                "percentage": "75%",
+                "votes": "42 votes"
+            },
+            "rating": [
+                {
+                    "five star": "13"
+                },
+                {
+                    "four star": "18"
+                },
+                {
+                    "three star": "4"
+                },
+                {
+                    "two star": "3"
+                },
+                {
+                    "one star": "4"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: 23 Paskal Shopping Center",
+                    "available-tickets": [
+                        {
+                            "time": "2155",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: Paris van Java",
+                    "available-tickets": [
+                        {
+                            "time": "2045",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "2245",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: BEC Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2120",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "212 The Power Of Love",
+            "love": {
+                "percentage": "74%",
+                "votes": "198 votes"
+            },
+            "rating": [
+                {
+                    "five star": "145"
+                },
+                {
+                    "four star": "14"
+                },
+                {
+                    "three star": "5"
+                },
+                {
+                    "two star": "1"
+                },
+                {
+                    "one star": "33"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2120",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "Cinemaxx: Istana Plaza Bandung",
+                    "available-tickets": []
+                },
+                {
+                    "theatre": "CGV: Metro Indah Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2230",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Assalamualaikum Calon Imam",
+            "love": {
+                "percentage": "71%",
+                "votes": "17 votes"
+            },
+            "rating": [
+                {
+                    "five star": "10"
+                },
+                {
+                    "four star": "2"
+                },
+                {
+                    "three star": "3"
+                },
+                {
+                    "two star": "0"
+                },
+                {
+                    "one star": "2"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": [
+                        {
+                            "time": "1050",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        },
+                        {
+                            "time": "1250",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sajen",
+            "love": {
+                "percentage": "64%",
+                "votes": "61 votes"
+            },
+            "rating": [
+                {
+                    "five star": "22"
+                },
+                {
+                    "four star": "9"
+                },
+                {
+                    "three star": "10"
+                },
+                {
+                    "two star": "7"
+                },
+                {
+                    "one star": "13"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": []
+                },
+                {
+                    "theatre": "CGV: Metro Indah Mall",
+                    "available-tickets": []
+                }
+            ]
+        },
+        {
+            "title": "Truth or Dare",
+            "love": {
+                "percentage": "76%",
+                "votes": "189 votes"
+            },
+            "rating": [
+                {
+                    "five star": "111"
+                },
+                {
+                    "four star": "43"
+                },
+                {
+                    "three star": "24"
+                },
+                {
+                    "two star": "6"
+                },
+                {
+                    "one star": "5"
+                }
+            ],
+            "available-theatre": [
+                {
+                    "theatre": "CGV: Miko Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2155",
+                            "price": 30000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: 23 Paskal Shopping Center",
+                    "available-tickets": []
+                },
+                {
+                    "theatre": "CGV: Paris van Java",
+                    "available-tickets": [
+                        {
+                            "time": "2200",
+                            "price": 40000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                },
+                {
+                    "theatre": "CGV: BEC Mall",
+                    "available-tickets": [
+                        {
+                            "time": "2325",
+                            "price": 35000,
+                            "venue": "REGULAR"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

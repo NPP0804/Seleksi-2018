@@ -12,6 +12,9 @@
   <br>
 </h2>
 
+### Description
+Program python yang akan melakukan data-scraping tentang recommended film dari BookMyShow. Setiap film akan diambil data ratingnya dan tiket-tiket yang tersedia untuk film tersebut.
+
 
 ### Specifications
 
@@ -68,16 +71,44 @@ Preprocessing contohnya :
 - Author
 ```
 
-<h1 align="center">
-  <br>
-  Selamat BerEksplorasi!
-  <br>
-  <br>
-</h1>
+### How To Use
+Windows:
+1. Open terminal in src directories
+2. Run the program with command "python scrape.py"
 
-<p align="center">
-  <br>
-  Basdat Industries - Lab Basdat 2018
-  <br>
-  <br>
-</p>
+Linux/Ubuntu:
+1. Open terminal in task directories
+2. make the Makefile with command "make"
+
+### Json Structure
+Each tuple of item data contains :
+1. Judul film
+2. Nilai suka pengguna
+3. Rating pengguna dari bintang 1 ke 5
+4. Info bioskop yang menayangkan film tersebut, terdiri dari :
+	1. Nama bioskop
+	2. Waktu, harga, dan tipe studio dari tiket film tersebut
+
+
+### Screenshot
+Screenshot 1
+![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc1.jpg)
+Screenshot 2
+![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc2.jpg)
+Screenshot 3
+![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc3.jpg)
+Screenshot 4
+![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc4.jpg)
+
+
+### Reference
+Library that I used:
+1. BeautifulSoup4 for html parser
+2. time for sleep command
+3. json for cleaning and writing json file
+4. requests for getting the html script from url
+
+### Author
+Nama	: 	Naufal Putra Pamungkas
+Email	:	ajienaufal0804@gmail.com
+			13516110@std.stei.itb.ac.id
