@@ -92,13 +92,13 @@ Each tuple of item data contains :
 
 ### Screenshot
 Screenshot 1
-![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc1.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc1.jpg)
 Screenshot 2
-![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc2.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc2.jpg)
 Screenshot 3
-![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc3.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc3.jpg)
 Screenshot 4
-![alt_text](https://github.com/NPP0804/Seleksi-2018/tree/master/Tugas1/screenshots/sc4.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc4.jpg)
 
 
 ### Reference
@@ -109,6 +109,6 @@ Library that I used:
 4. requests for getting the html script from url
 
 ### Author
-Nama	: 	Naufal Putra Pamungkas
+Nama	: 	Naufal Putra Pamungkas <br>
 Email	:	ajienaufal0804@gmail.com
 			13516110@std.stei.itb.ac.id
