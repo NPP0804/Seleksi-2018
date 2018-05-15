@@ -92,13 +92,13 @@ Each tuple of item data contains :
 
 ### Screenshot
 Screenshot 1 <br>
-![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc1.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc1.jpg) <br>
 Screenshot 2 <br>
-![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc2.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc2.jpg) <br>
 Screenshot 3 <br>
-![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc3.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc3.jpg) <br>
 Screenshot 4 <br>
-![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc4.jpg)
+![alt_text](https://github.com/NPP0804/Seleksi-2018/blob/master/Tugas1/screenshots/sc4.jpg) <br>
 
 
 ### Reference
